@@ -1,4 +1,4 @@
-# Mass-Spring-Damper Simulation (Simulink)
+# Second order Simulation in Simulink
 
 A Simulink model of a second order mass spring-damper system. 
 
