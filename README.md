@@ -1,6 +1,10 @@
 # Mass-Spring-Damper Simulation (Simulink)
 
-A Simulink model of a second-order mass-spring-damper system, built from basic integrator and gain blocks. It shows how mass, stiffness and damping shape the response of a mechanical system, from long oscillations to smooth, non-oscillating decay.
+A Simulink model of a second order mass spring-damper system. 
+
+<img width="230" height="230" alt="image" src="https://github.com/user-attachments/assets/4c95596a-7d8e-4144-a219-ce9d52bb8f4d" />
+
+
 
 <!-- Add a screenshot of your model here, e.g. ![Model diagram](images/model.png) -->
 
